@@ -7,19 +7,15 @@ permalink: /bio/
 ![Me wearing a cool hat](/images/hat-landscape.jpg "Me wearing a cool hat")
 
 
-I guess it'd be a little embarrassing if I didn't at least have something about myself on my own website, so here are the facts.
+I’m a junior UI/UX designer switching careers from bartending. My work in bars and restaurants over the last decade taught me the most important skill for user-centered design: empathy. Before I worked full-time as a bartender and bar manager, though, I was developing more skills as a designer and writer.
 
-(The "facts" that make me look the best, at least.)
+As a freelance web designer from 2013 to 2017, I designed, redesigned, and maintained websites for various small business clients in both B2B and B2C industries.
 
-I design and build websites and apps. My focus is on creating a good user experience, so I try to make everything I create EASY for real people. 
+As a freelance content writer and social media manager from 2013 to 2017, I wrote articles, blogs, newsletters, and social media posts for various clients utilizing their voice and brand.
 
-My background in freelancing forced me to learn about HTML, CSS, and different eccentricities of hosting companies, sitebuilders, and content management systems. After self-teaching for a few years, I enrolled in The Iron Yard's UI Design program to augment my skills.
+In 2016, I completed The Iron Yard User Interface Design bootcamp. During this 12-week course, I gained skills in user research, user testing, wireframing, creating mockups, and responsive web design.
 
-With a healthy mix of real-world experience, learning by doing, and formal education, I can now offer my clients more value than they get with other designers.
-
-Besides designing, I love music and traveling (like damn near everyone else who writes a bio for themselves), writing, and most outdoor recreation.
-
-I'm taking on freelance projects during the months of May and June, and I'd love to work with you.
+I’m looking for work. I’m refreshing and enhancing my skills daily, and I’m building a new portfolio. If you’re seeking someone who is passionate about designing experiences that solve problems for all users, I’d love to join your team.
 
 
 
